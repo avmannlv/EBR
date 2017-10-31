@@ -8,6 +8,11 @@ PROGRAM_NAME='MIR01, Mirage Exec Boardroom, Rev03, ECM'
 (* System Type : NetLinx                                   *)
 (***********************************************************)
 (* REV HISTORY:                                            *)
+(*	10/31/17 Edited by Ethan Mann			   
+		Updating code to work with new switch per
+		Mike Knutson
+							   							   *)
+
 (***********************************************************)
 
 (***********************************************************)
